@@ -1,2 +1,2 @@
-18 #!/bin/bash
+#!/bin/bash
 ls -xamp
